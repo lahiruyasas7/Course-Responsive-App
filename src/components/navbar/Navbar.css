@@ -1,0 +1,40 @@
+.nav {
+    width: 1024px;
+    height: 80px;
+    border-radius: 0px 0px 10px 10px;
+    background: rgba(0, 0, 0, 0.50);
+    backdrop-filter: blur(20px);
+    margin-top: 24px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 32px;
+}
+
+.nav .logo {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.nav .logo span {
+    color: #E63946;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+a {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}

@@ -10,3 +10,17 @@
 *::before {
   box-sizing: border-box;
 }
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif ;
+}
+
+.wrapper {
+  max-width: auto;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
