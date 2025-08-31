@@ -72,3 +72,11 @@ section h2.light::after {
 section .content-container {
   display: flex;
 }
+
+/* Tablet Version */
+
+@media (max-width: 1040px) {
+  .wrapper {
+    max-width: 694px;
+  }
+}
